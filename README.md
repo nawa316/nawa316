@@ -14,7 +14,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.
 
 ### Github Statistic
 <p align="left">
- https://github-readme-stats.vercel.app/api?username=nawa316&show_icons=true&theme=transparent
+ <img src="https://github-readme-stats.vercel.app/api?username=nawa316&show_icons=true&theme=transparent">
 
 </a>
 </p>
