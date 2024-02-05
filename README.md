@@ -14,7 +14,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.
 
 ### Github Statistic
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nawa316&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nawa316&layout=compact&layout=compact&theme=algolia"/>
+ https://github-readme-stats.vercel.app/api?username=nawa316&show_icons=true&theme=transparent
+
 </a>
 </p>
