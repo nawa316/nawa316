@@ -10,8 +10,6 @@ Saya memiliki motivasi untuk menjadi mahasiswa berprestasi dan membanggakan kedu
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ade-dzakwan-839916277)ku ya.
 
-<br>
-
 ### Github Statistic
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=nawa316&show_icons=true&theme=transparent">
