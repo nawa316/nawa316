@@ -7,6 +7,6 @@ Saya memiliki motivasi untuk menjadi mahasiswa berprestasi dan membanggakan kedu
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ade-dzakwan-839916277)ku ya.
 
 ### Github Statistic
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawa316&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" height='300px' alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawa316&&theme=buefy&hide_border=true" height='300px'/>|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawa316&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" height='200px' alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawa316&&theme=buefy&hide_border=true" height='200px'/>|
 | ------------- | ------------- |
 
