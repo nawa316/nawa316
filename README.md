@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Study Abroad Center<br>👯 I’m looking to collaborate on Web and Mobile Dev Project<br>🤝 I’m looking for help with my personal project<br>🌱 I’m currently learning at information system studies<br>💬 Ask me about technology and software developer<br>⚡ Fun fact, I love to cooking😁
+🔭 I’m currently working on Study Abroad Center<br>👯 I’m looking to collaborate on Web and Mobile Dev Project<br>🌱 I’m currently learning at information system studies<br>💬 Ask me about technology and software developer<br>⚡ Fun fact, I love to cooking😁
 
 
 ## 🌐 Socials:
